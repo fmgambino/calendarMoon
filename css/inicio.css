@@ -1,0 +1,95 @@
+body{
+    background-image: url(../imagenes/imagenes/1920x1080.jpg);
+    background-size: 130% 160%;
+    background-position: left -80px;
+    background-repeat: no-repeat;
+}
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  .container{
+  
+  }
+  .btn.btn-primary.btn-sm{
+      
+  }
+  .p-5.form{
+ float: left;
+    width: 100px;
+    margin-left: -94%;
+    margin-top: 10%;
+    border: 0px;
+  }
+  .btn.btn-primary.btn-lg{
+        margin-top:50px;
+    }
+  .form-control.text-center{
+    width: 200px;
+    margin-left: 30%;
+  }
+  h3{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+
+  .row{
+    margin-top: 20px;
+  }
+  .input{
+    text-align: center;
+  }
+
+  @media (max-width: 800px){
+    body{
+      background-image: url(../imagenes/imagenes/Top\ Day\ Home\ Page.jpg);
+      background-size: 140% 115%;
+      background-position: left -50;
+      background-repeat: no-repeat;
+  }
+  
+    .p-5.form{
+   float: left;
+    width: 150px;
+    margin-left: -84%;
+    margin-top: 10%;
+    border: 0px;
+    }
+    .btn.btn-primary.btn-lg{
+        margin-top:50px;
+    }
+  
+    .mb-4.text-white{
+      text-align: center;
+      font-size: 20px;
+    }
+    .h3.text-white{
+      text-align: center;
+      font-size: 18px;
+    }
+    .form-control.text-center{
+      width: 100px;
+      margin-left: 0%;
+    }
+  }
+@media (max-width: 800px){
+     body{
+    background-image: url(../imagenes/imagenes/1080x1920.jpg);
+    background-size: 120% 120%;
+    background-position:  left top;
+    background-repeat: no-repeat;
+}}
+ @media (max-width: 1620px) and (min-width: 800px){
+    body{
+  background-image: url(../imagenes/imagenes/1920x1080.jpg);
+  background-size: 120% 120%;
+  background-position: left top;
+  background-repeat: no-repeat;
+  height: 180%;
+     }
+    
+}
