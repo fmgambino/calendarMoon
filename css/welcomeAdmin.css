@@ -1,0 +1,249 @@
+#modal2{
+  margin-top:50px; 
+}
+#modal3{
+  margin-top:100px; 
+}
+#modal4{
+  margin-top:100px; 
+}
+#modal5{
+  margin-top:100px; 
+}
+#modal6{
+  margin-top:100px; 
+}
+#modal7{
+  margin-top:100px; 
+}
+#modal8{
+  margin-top:100px; 
+}
+.italicaC{
+    font-style: italic;
+}
+.subrayado{
+    text-decoration:underline;
+}
+.btn.btn-light.hide{
+    display: none;
+}
+.blod{
+ font-weight: bold;
+}
+.Rosso{
+    color:#ff0000;
+}
+.Blu{
+    color:#0000ff;
+}
+.Bianco{
+    color:#fff;
+}
+.Verde{
+    color:#00ff00;
+}.Giallo{
+    color:#ffff00;
+}
+.Magenta{
+    color:#ff00ff;
+}.ciano{
+    color:#00ffff;
+}
+.viola{
+    color:#8800ff;
+}
+.Arancia{
+    color:#ff8800;
+}
+.calibri{
+    font-family: Calibri;
+}
+.Arial{
+    font-family: Arial;
+}
+.Helvetica{
+    font-family: Helvetica;
+}
+.Courier{
+    font-family: Courier;
+}
+.monospace{
+    font-family: monospace;
+}
+.Impact{
+    font-family: Impact;
+}
+
+.font12{
+    font-size:12px;
+}
+.font14{
+    font-size:14px;
+}
+.font16{
+    font-size:16px;
+}
+.font20{
+    font-size:20px;
+}
+.font24{
+    font-size:24px;
+}
+.center{
+    text-align: center;
+}
+.centerLeft{
+    text-align: left;
+}
+.centerRight{
+    
+    text-align: justify;
+}
+.hide{
+    display: none;
+}
+.btn.btn-success.mas.hide{
+    display: none;
+}
+.hide1{
+    
+}
+.btn.btn-success.mas{
+    margin-left:45%;
+    margin-top: 10px;
+}
+
+.btn.btn-danger.mas.hide{
+    display: none;
+}
+.btn.btn-danger.mas{
+    margin-left:2%;
+    margin-top: 10px;
+}
+body{
+    background-image: url(../imagenes/cuáles-son-las-fases-lunares.jpg);
+    background-repeat: no-repeat;
+    background-size: 120% 130%;
+    
+    
+    
+}
+html{
+  background-color: #000074;
+  border: 5px #000074;
+  height: 80%;
+  bottom: 0;
+  z-index:-50;
+}
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  .form {
+    width: 650px;
+ 
+  }
+  h5{
+    text-align: center;
+  }
+  h3{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  
+    border-radius: 10px;
+    
+  }
+
+  .row{
+    margin-top: 20px;
+  }
+  .input{
+    text-align: center;
+  }
+  .btn-danger{
+    float: right;
+    margin-left: 2%;
+    margin-top: -4%;
+    position: absolute;
+  }
+
+  .btn-Dangerlmz {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  .btn-Dangerlmz :hover {
+    color: #fff !important;
+  }
+
+  .contenedorbtn{
+    display: grid;
+    height: 100%;
+    margin-top:50px;
+    grid-template-columns: 1fr;
+    grid-template-rows: 200px 200px 200px;
+    
+  }
+  .contenedorbtn div{
+    margin: auto;
+  }
+  .btn-circle.btn-xl {
+    width: 110px;
+    height: 110px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    
+    font-size: 24px;
+    line-height: 1.33;
+    
+}
+.btn-circle.btn-sm{
+  width: 16%;
+    height: 50px;
+    margin: 1%;
+    border-radius: 50%;
+    
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+.btn-circle {
+    margin-top: 80%;
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+.btn-lg{
+    width: 200px;
+}
+.btn-sm{
+  height: 100px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+.btn-sm {
+  width: 80px;
+  height: 80px;
+  padding: 10px 16px;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 1.33;
+  margin-left: -10px;
+  margin-top: -5px;
+  margin-right: 40px;
+  
+}
+.bg-light{
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
